@@ -37,5 +37,9 @@ The package consists of the following components.
 - Don’t use AC power supply as connection to board except relay.   
 
 # Assembly Process
-
+1. Solder the male headers in the Arduino as shown in the diagram below. 
 <img src="assets/images/1.png">
+
+2. Solder female header in the PCB in designated footprint in board as shown below. 
+
+<img src="assets/images/2.png">
