@@ -42,4 +42,13 @@ The package consists of the following components.
 
 2. Solder female header in the PCB in designated footprint in board as shown below. 
 
+<img src="assets/images/3.png">
+
+3. Take two LEDs and Resistors(1k) and solder them in their respective footprints ((D2 & D3 and  R3 & R6) as shown in the figure below. 
 <img src="assets/images/2.png">
+
+4. Take a temperature sensor and resistor (preferabally 4.7K) and solder in the foorprint (DS18B20 and R7) as  shown in figure below. 
+
+5. Now take a ultrasonic sensor and 4 female header. Also take a buzzer. 
+ 
+6. Solder female header in its footprint(J2) as well as buzzer (BZ1). Ensure to check the polarity of buzzer before connection
